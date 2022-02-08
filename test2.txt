@@ -1,4 +1,0 @@
-new file test
-gogogo2gitgitgit
-append
-add date:2.3
